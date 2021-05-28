@@ -3,7 +3,8 @@ def add(x,y):
     return x+y            #on master branch
 #sub implementation
 def subtract(x,y):
-    pass
+    return x-y          #on bug123
+    
     
 #multiply implementation
 def multiply(x,y):
